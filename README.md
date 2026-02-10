@@ -4,8 +4,8 @@ This repository will host the source code for the paper:
 
 "Trajectory Prediction-Based Adaptive Takeover Method for Mobile Robot Teleoperation Systems with Communication Delays"
 
-TaskA.py involves transporting supplies by overtaking an obstacle vehicle.
-TaskB.py focuses on lane keeping on curved roads.
+TaskA involves transporting supplies by overtaking an obstacle vehicle.
+TaskB focuses on lane keeping on curved roads.
 
 ## Requirements
 - Python = 3.7
