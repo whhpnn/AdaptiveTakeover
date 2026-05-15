@@ -59,6 +59,7 @@ Each task includes three code modules:
      
 - Task B: Lane Departure Correction
   In this task, the IV follows a pre-planned route and is expected to maintain lane-keeping along the road centerline in an urban remote driving scenario. However, when the IV reaches point A, external disturbances cause the actual driving trajectory to deviate from the planned path. As a result, remote takeover by a cloud-based safety operator is required. The operator then controls the IV to drive approximately 80 meters to point B.
+  
 <img src="route_b.png"
      alt="route_b"
      style="width:80%; height:auto;" />
