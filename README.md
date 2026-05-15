@@ -53,14 +53,15 @@ Each task includes three code modules:
 
 - Task A: Overtaking and Obstacle Avoidance 
   In this task, an intelligent vehicle (IV) is assigned to transport supplies from point A to point B. However, a faulty vehicle (FV) is stalled at a random position 25-35 m ahead of point B, which is not considered in the original autonomous driving design of the IV. This unexpected obstacle prevents the IV from completing the task safely under autonomous control alone. Therefore, remote human takeover is required to guide the vehicle around the obstacle and continue the transportation mission to point B.
- <img src="https://github.com/user-attachments/assets/330f7c92-8e4e-4cba-9805-47bbf9868e9a"
+<img src="route_a.png"
      alt="route_a"
      style="width:80%; height:auto;" />
      
 - Task B: Lane Departure Correction
   In this task, the IV follows a pre-planned route and is expected to maintain lane-keeping along the road centerline in an urban remote driving scenario. However, when the IV reaches point A, external disturbances cause the actual driving trajectory to deviate from the planned path. As a result, remote takeover by a cloud-based safety operator is required. The operator then controls the IV to drive approximately 80 meters to point B.
-<img style="width:80%; height:auto;" alt="route_b" src="https://github.com/user-attachments/assets/52cc7c5b-fc20-4c9c-a110-a8e2167e502a" />
-
+<img src="route_b.png"
+     alt="route_b"
+     style="width:80%; height:auto;" />
 
 ## 6. Usage Workflow
 
