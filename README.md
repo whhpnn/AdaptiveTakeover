@@ -28,7 +28,9 @@ The proposed method is validated through simulations in a CARLA-based remote dri
 ├── requirements.txt                                           # Project dependencies
 ├── framework.png                                              # Method framework diagram
 ├── mpc_parameters.md                                          # MPC parameter settings for different tasks and speed conditions
-└── wheel_config.ini                                           # Logitech G29 steering wheel configuration file
+├── wheel_config.ini                                           # Logitech G29 steering wheel configuration file 
+├─  route_a.png                                           
+└── route_b.png                                         
 </pre>
 
 
