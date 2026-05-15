@@ -46,7 +46,7 @@ The proposed method is validated through simulations in a CARLA-based remote dri
 
 Each task includes three code modules:
 
-- `main.py`: Main script for the experiment, used to execute the takeover control process.
+- `Task.py`: Main script for the experiment, used to execute the takeover control process.
 - `collectiondata.py`: Used for collecting data associated with the human intention trajectory.
 - `trajectory_prediction.py`: Used for trajectory prediction and for generating the `.pth` model file.
 
